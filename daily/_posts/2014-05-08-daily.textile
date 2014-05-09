@@ -1,0 +1,15 @@
+---
+layout: post
+title: Daily
+---
+
+h3. Read the docs &hellip; 2x
+
+* I'm working on core location map kit functionality and deliberately reading through Apple's "Location and Maps Programming Guide":https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009497-CH1-SW1 . I'm taking notes and as I ask questions, I write them down, look for the answer the _original_ docs and then potentially make a little project to validate the answer.
+* I'm working through the Collection Views in a similar way for classrooms in Kiddos. I'm deliberately reading through the original docs first, asking questions as I go and then, in this case, experimenting with the answers directly in Kiddos.
+* Either approach feels like a good start to a tutorial.
+* I'm reading "Essentialism":http://www.amazon.com/Essentialism-The-Disciplined-Pursuit-Less/dp/0804137382 and I want to take notes. I want to read through each chapter in the book trying, with mind power only, to make connections and remember things. Then, I want to write 1 sentence to summarize each chapter. I could continue doing the same with the next chapter - but at some point, I want to double back and write one sentence for each section &hellip; and then each paragraph, &hellip; etc. Then, I'd like to setup a webpage that allows me to pick which level of granularity I'd like to review the book. The key is to summarize the entire X in just one line. Maybe there could be an option that would allow you to have more than one line summary ... but I'd wait and see.
+
+h3. EP
+
+* remember the little schemer's approach to teaching

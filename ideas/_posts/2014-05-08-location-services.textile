@@ -1,0 +1,17 @@
+---
+layout: post
+title: Location Services
+---
+
+* simple app
+* pick accuracy
+* where are you now?
+
+* waypoints
+* travel time
+* work travel time guesstimator
+
+* "turn-by-turn":https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html#//apple_ref/doc/uid/TP40009497-CH2-SW1
+* pick a pre-run route
+* choose waypoints during previous runs
+* speak to me at those waypoints, ahead or behind, estimate how much time is left (ai)

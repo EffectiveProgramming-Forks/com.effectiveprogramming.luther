@@ -1,0 +1,62 @@
+---
+layout: inbox
+title: 'TDD is Dead'
+---
+
+h3. Articles
+
+* "TDD is Dead. Long Live Testing.":http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+* "Why Most Unit Testing is Waste":http://www.rbcs-us.com/documents/Why-Most-Unit-Testing-is-Waste.pdf
+* "Does Test-Driven Development Really Improve Software Design Quality?":http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1027&context=csse_fac
+* "Why Test-driven Development?":http://derekbarber.ca/blog/2012/03/27/why-test-driven-development/
+
+h3. Blogs
+
+* "Nathan Hoad":http://nathanhoad.net/
+
+h3. Tutorials
+
+* "objc.io":http://www.objc.io/
+* "Subjective-C":http://subjc.com/
+
+h3. Podcasting
+
+* Apple's "Podcast Specs":https://www.apple.com/itunes/podcasts/specs.html
+* "How to submit a podcast to the iTunes Store":http://support.apple.com/kb/ht1819
+* "Podcasting Audio Formats":http://www.podcastfaq.com/creating-podcast/audio/audio-formats/
+* "What file format is best suited for podcasting?":http://kb.iu.edu/data/awuh.html
+
+h3. Colors
+
+* "Color Calculator":http://www.sessions.edu/color-calculator
+* "Color Scheme Designer":http://colorschemedesigner.com/
+* "Try Colors":http://trycolors.com/
+* "Color Blender":http://meyerweb.com/eric/tools/color-blend/
+* "Online Color Mixer":http://www.colorcodehex.com/online-color-mixer.html
+* "Math is Fun":http://www.mathsisfun.com/hexadecimal-decimal-colors.html
+* Google "Dark Orange":https://www.google.com/search?q=dark+orange
+* Wikipedia "Shades of Orange":http://en.wikipedia.org/wiki/Shades_of_orange
+* "Color Combinations":http://www.worqx.com/color/combinations.htm
+
+h3. Fonts
+
+* "Google Fonts":https://www.google.com/fonts
+
+h3. Server Engines
+
+* "Jekyll Templates":http://jekyllrb.com/docs/templates/
+* "Jekyll Plugins":http://jekyllrb.com/docs/plugins/
+
+h3. UML
+
+* "Web Sequence Diagrams":https://www.websequencediagrams.com/
+
+h3. Encoding
+
+* "Unicode character table":http://unicode-table.com/en
+* "UTF8":http://en.wikipedia.org/wiki/UTF-8
+* "UTF-8: The Secret of Character Encoding":http://htmlpurifier.org/docs/enduser-utf8.html
+* "What is the difference between UTF-8 and ISO-8859-1?":http://stackoverflow.com/questions/7048745/what-is-the-difference-between-utf-8-and-iso-8859-1
+
+<blockquote>UTF-8 is a multibyte encoding that can represent any Unicode character. ISO 8859-1 is a single-byte encoding that can represent the first 256 Unicode characters. Both encode ASCII exactly the same way.</blockquote>
+
