@@ -1,0 +1,52 @@
+---
+layout: page
+title: 2014 Calendar
+---
+
+<script type="text/javascript">
+function mouseOver(obj) {
+	obj.style.cursor = "Pointer";
+}
+function openURL(url) {
+	window.open(url);	
+}
+</script>
+
+<table class="stories">
+	<tr>
+		<th colspan="7"><h3>June</h3></th>
+	</tr>
+	<tr>
+		<th>Sunday</th>
+		<th>Monday</th>
+		<th>Tuesday</th>
+		<th>Wednesday</th>
+		<th>Thursday</th>
+		<th>Friday</th>
+		<th>Saturday</th>
+	</tr>
+	<tr>
+		<td class="day">
+			<div class="date">1</div>
+			<dl class="tag-podcast-setup">
+				<dd class="t">2</dd>
+				<dt>Move podast episodes to github</dt>
+				<dd>Self-Service</dd>
+			</dl>
+			<dl class="tag-book-iOSArchitecture" 
+				onmouseover="mouseOver(this)"
+				onclick="openURL('http://projects.effectiveprogramming.com/books/ios-architecture/index.html')">
+				<dd class="t">1</dd>
+				<dt>iOS Architecture Book</dt>
+				<dd>Outline</dd>
+			</dl>
+			<dl class="tag-product-Passwords"
+				onmouseover="mouseOver(this)"
+				onclick="openURL('http://projects.effectiveprogramming.com/apps/passwords/index.html')">
+				<dd class="t">1</dd>
+				<dt>Passwords</dt>
+				<dd>Save new item</dd>
+			</dl>
+		</td>
+	</tr>
+</table>

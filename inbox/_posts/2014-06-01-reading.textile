@@ -1,0 +1,9 @@
+---
+layout: post
+title: Reading
+---
+
+h3. iOS
+
+* "iOS Bytes":http://iosbytes.envylabs.com/episodes/22-episode-22-may-29-2014
+* "The Art of designing Office for iPad":http://blogs.office.com/2014/05/22/the-art-of-designing-office-for-ipad/

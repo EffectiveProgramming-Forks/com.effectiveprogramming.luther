@@ -31,3 +31,66 @@ div.post {
 div.post a {
 	color: #6f9620; /* monochromatic - black */
 }
+
+table.stories {
+	border-collapse: collapse;
+}
+
+table.stories th {
+	text-align: center;	
+}
+
+table.stories th,
+table.stories td {
+	border: 1px solid #aaa;
+	padding: 4px;
+	width: 100px;
+}
+
+table.stories td {
+}
+
+table.stories td div.date {
+	text-align: right;
+}
+
+table.stories td dl {
+	border: 1px solid #aaa;
+	font-size: 8pt;
+	padding: 2px;
+	margin: 3px 0;
+}
+
+table.stories td dl dt {
+	font-weight: bold;
+	display: inline;
+}
+
+table.stories td dl dd {
+	display: inline;
+}
+
+.t {
+	color: #666;
+	ont-style: oblique;
+}
+
+.t::before {
+	content: "(";
+}
+
+.t::after {
+	content: ")";
+}
+
+.tag-book-iOSArchitecture {
+	background-color: #dad;
+}
+
+.tag-product-Passwords {
+	background-color: #add;
+}
+
+.tag-podcast-setup {
+	background-color: #dda;	
+}

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Daily
+---
+
+h3. Ideas
+
+* There are many iOS books reviewing Objective-C and the SDK
+* There are not many iOS books reviewing iOS Application Architecture
