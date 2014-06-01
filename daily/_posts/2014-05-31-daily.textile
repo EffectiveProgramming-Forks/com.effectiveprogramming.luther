@@ -7,3 +7,34 @@ h3. Ideas
 
 * There are many iOS books reviewing Objective-C and the SDK
 * There are not many iOS books reviewing iOS Application Architecture
+
+h3. Music
+
+* "Songspace":https://songspace.com/
+
+h3. Podcasting
+
+* "Podcasting with Dropbox":http://bosslee.co/2013/07/28/podcasting-with-dropbox-and-jekyll/
+* "Podcasting with Jekyll":http://www.adamwilcox.org/2013/01/17/from-the-pub/
+* "Link Post":https://gist.github.com/adamwilcox/7881733
+* "RSS XML":https://gist.github.com/adamwilcox/7881701
+* "iTunes Categories":http://www.apple.com/itunes/podcasts/specs.html#categories
+* "iTunes Cat - gist":https://gist.github.com/skattyadz/814315
+
+h3. Metrics
+
+* "Measuring RSS Feeds":http://www.feedforall.com/measuring-rss.htm
+* "Blogging eMetrics":http://www.havelaptopwilltravel.com/projects/blogging-e-metrics/
+* "Standard and reliable way to track RSS subscribers?":http://stackoverflow.com/questions/3327677/standard-and-reliable-way-to-track-rss-subscribers
+* "Is there a way to track unique subscribers to my RSS feed?":http://ask-leo.com/is_there_a_way_to_track_unique_subscribers_to_my_rss_feed.html
+* "Counting Subscribers":http://www.tbray.org/ongoing/When/200x/2003/05/25/Subscribers
+* "RSS Tracking":http://en.wikipedia.org/wiki/RSS_tracking
+
+h3. RSS
+
+* Google "Feedburner CNAME":https://www.google.com/search?q=feedburner+cname
+* "How to Own Your RSS Feed":http://www.thehobbyblogger.com/how-to-own-your-rss-feed/
+* "How to use your own domain name for feedburner feed urls":http://infoheap.com/use-your-own-domain-name-for-feedburner-feed-urls/
+* "Using Feedburner on Your Own Domain":http://theme.fm/2011/07/using-feedburner-on-your-own-domain-1086/
+* "FeedBurner Stats Overview and FAQ":https://support.google.com/feedburner/answer/78948
+* "Media RSS":http://en.wikipedia.org/wiki/Media_RSS
