@@ -35,6 +35,9 @@ h3. Metrics
 
 h3. RSS
 
+* "W3 Schools RSS":http://www.w3schools.com/rss/rss_channel.asp
+* "The RSS Blog":http://www.therssweblog.com/?guid=20070529130637
+* "How to Write Podcast RSS XML":https://odee.osu.edu/resourcecenter/digital-media-production/how-write-podcast-rss-xml
 * Google "Feedburner CNAME":https://www.google.com/search?q=feedburner+cname
 * "How to Own Your RSS Feed":http://www.thehobbyblogger.com/how-to-own-your-rss-feed/
 * "How to use your own domain name for feedburner feed urls":http://infoheap.com/use-your-own-domain-name-for-feedburner-feed-urls/
@@ -49,6 +52,14 @@ h3. Google Analytics
 * "Mint: A fresh look at your sight":http://haveamint.com/
 * "Media Podcast Statistics vs. Web Statistics":http://create.blubrry.com/manual/statistics-analytics-measuring-performance/media-podcast-statistics-vs-web-statistics/#
 
+h3. CDATA
+
+* "W3 Schools - CDATA":http://www.w3schools.com/xml/xml_cdata.asp
+* "Wiki - CDATA":http://en.wikipedia.org/wiki/CDATA
+
+<blockquote>A CDATA section is merely an alternative syntax for expressing character data; there is no semantic difference between character data that manifests as a CDATA section and character data that manifests as in the usual syntax in which "<" and "&" would be represented by "&lt;" and "&amp;", respectively.</blockquote>
+
 h3. Other
 
 * "Podcasting News":http://www.podcastingnews.com/
+* "MP3 Player":http://activeden.net/item/premium-xml-mp3-player/22221?ref=tuts2
