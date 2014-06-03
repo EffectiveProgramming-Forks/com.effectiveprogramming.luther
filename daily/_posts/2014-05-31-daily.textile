@@ -11,3 +11,8 @@ h3. Ideas
 h3. Music
 
 * "Songspace":https://songspace.com/
+
+h3. Other
+
+* "Developer Podcasts":http://simpleprogrammer.com/2014/03/10/ultimate-list-developer-podcasts/
+* "podbay.fm":http://podbay.fm/show/878947397
