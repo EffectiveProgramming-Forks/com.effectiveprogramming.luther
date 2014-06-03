@@ -2,3 +2,19 @@
 layout: post
 title: Daily
 ---
+
+h3. Work
+
+* Our team had a successful demo today!
+* I had a brief turn-around to convince the team to start making structures immutable
+
+h3. Effective Programming
+
+* Listened to "CocoaRadio 07 - John Debay On Software Craftsmanship":http://feedpress.me/cocoaradio
+* That podcast finally inspired me to start documenting the iOS architecture patterns I've grown to love
+* Started capturing some high-level thoughts about the book
+* Started to work on a small "reddit":http://www.reddit.com/?offset=25 client for iPhone
+
+h3. Fuzzy Bearings
+
+* Worked a bit on a password app for the appstore.
