@@ -16,3 +16,4 @@ h3. Other
 
 * "Developer Podcasts":http://simpleprogrammer.com/2014/03/10/ultimate-list-developer-podcasts/
 * "podbay.fm":http://podbay.fm/show/878947397
+* Problem with KeePassX (or any password manager I guess) is that I've got to keep it open all the time. What happens if I walk away?
